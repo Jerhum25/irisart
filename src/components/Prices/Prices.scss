@@ -1,0 +1,18 @@
+.pricesContainer {
+  padding: 50px;
+  background-color: var(--brown);
+  h2 {
+    color: var(--dalmond);
+    text-transform: capitalize;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pricesContainer {
+    padding: 30px 3%;
+    h2 {
+      text-align: center;
+    }
+  }
+}

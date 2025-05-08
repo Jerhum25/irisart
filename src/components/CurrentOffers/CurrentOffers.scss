@@ -1,0 +1,18 @@
+.currentOffersContainer {
+  padding: 50px;
+  background-color: var(--dalmond);
+  h2 {
+    margin-bottom: 15px;
+    color: var(--brown);
+    text-transform: capitalize;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .currentOffersContainer {
+    padding: 30px 3%;
+    h2 {
+      text-align: center;
+    }
+  }
+}

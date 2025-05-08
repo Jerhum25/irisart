@@ -1,0 +1,42 @@
+.footerContainer {
+  background-color: var(--brown);
+  color: var(--dalmond);
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+
+
+
+  .legal {
+    font-size: 0.875rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.3s;
+
+      &:hover {
+        color: white;
+      }
+    }
+  }
+
+  .copyright {
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+   .footerContainer{
+    padding: 1rem;
+   }
+}

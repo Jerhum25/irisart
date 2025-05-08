@@ -1,0 +1,41 @@
+[
+    {
+        "title": "1 iris solo",
+
+        "infos": 
+            {
+                "info1":"prise de vue 1 iris",
+                "info2":"votre photo sublimée en montage artistique",
+                "info3":"votre fichier numérique en HD",
+                "info4":"",
+                "info5":""
+            },
+
+            "price": 69
+
+            },
+    {
+        "title": "2 iris coulpe",
+        "infos": 
+            {
+                "info1":"prise de vue 2 iris",
+                "info2":"votre photo sublimée en montage artistique",
+                "info3":"votre fichier numérique en HD",
+                "info4":"votre tirage en 30x40cm",
+                "info5":"support au choix"
+            },
+            "price":150
+            },
+    {
+        "title": "4 iris famille",
+        "infos": 
+            {
+                "info1":"prise de vue 4 iris",
+                "info2":"votre photo sublimée en montage artistique",
+                "info3":"votre fichier numérique en HD",
+                "info4":"votre tirage en 30x40cm",
+                "info5":"support au choix"
+            },
+            "price":250
+            }
+]

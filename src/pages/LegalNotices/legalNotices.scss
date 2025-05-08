@@ -1,0 +1,29 @@
+.legalNoticesContainer {
+  display: flex;
+  min-height: 100svh;
+  flex-direction: column;
+  background-color: var(--dalmond);
+  main {
+    max-width: 1200px;
+    margin: auto;
+    color: #333;
+    padding: 50px;
+    text-align: justify;
+    h2 {
+      padding-bottom: 50px;
+      text-align: center;
+      font-size: 30px;
+    }
+    a{
+      color: var(--brown);
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .legalNoticesContainer {
+    main {
+      padding: 50px 5px;
+    }
+  }
+}

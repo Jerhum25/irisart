@@ -1,0 +1,44 @@
+[
+    {
+        "title": "📷 Pack Shooting Hiver ❄️",
+        "discount": "20% de remise sur les séances photo en extérieur",
+        "date": "Du 1er décembre au 15 janvier",
+        "infoSup": "👉 Capturez la magie de l'hiver !",
+        "price" : 100
+    },
+    {
+        "title": "💑 Séance Couple Romantique ❤️",
+        "discount": "15% de réduction sur les séances photo en duo",
+        "date": "Offre valable tout février",
+        "infoSup": "💕 Immortalisez votre amour pour la Saint-Valentin",
+        "price" : 100
+    },
+    {
+        "title": "🎂 Pack Anniversaire 🎁",
+        "discount": "10% de remise sur les shootings anniversaire",
+        "date": "Offre valable le mois de votre anniversaire",
+        "infoSup": "📸 Repartez avec un souvenir inoubliable",
+        "price" : 100
+    },
+    {
+        "title": "👶 Séance Nouveau-Né 🍼",
+        "discount": "25% de remise pour toute réservation avant la naissance",
+        "date": "Valable toute l'année",
+        "infoSup": "💖 Des souvenirs doux et intemporels",
+        "price" : 100
+    },
+    {
+        "title": "👨‍👩‍👧‍👦 Portrait de Famille 🎄",
+        "discount": "15% de remise sur les portraits de famille",
+        "date": "Du 1er novembre au 31 décembre",
+        "infoSup": "📷 Une belle photo à offrir à Noël",
+        "price" : 100
+    },
+    {
+        "title": "💼 Pack Pro LinkedIn 🚀",
+        "discount": "20% de remise sur les photos professionnelles",
+        "date": "Du 1er au 30 avril",
+        "infoSup": "🔥 Boostez votre image en entreprise",
+        "price" : 100
+    }
+]
