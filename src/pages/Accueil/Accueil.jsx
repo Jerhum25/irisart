@@ -2,6 +2,7 @@ import React from "react";
 import AboutUs from "../../components/AboutUs/AboutUs";
 import Banner from "../../components/Banner/Banner";
 import Header from "../../components/Header/Header";
+import SlideShow from "../../components/SlideShow/SlideShow"
 import "./Accueil.scss";
 import CurrentOffers from "../../components/CurrentOffers/CurrentOffers";
 import Prices from "../../components/Prices/Prices";
@@ -12,7 +13,8 @@ function Accueil(props) {
   return (
     <div className="accueilContainer" id="home">
       {/* <Header /> */}
-      <Banner />
+      {/* <Banner /> */}
+      <SlideShow/>
       <AboutUs />
       <CurrentOffers/>
       <Prices/>
