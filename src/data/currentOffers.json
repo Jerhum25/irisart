@@ -1,44 +1,41 @@
 [
     {
-        "title": "📷 Pack Shooting Hiver ❄️",
-        "discount": "20% de remise sur les séances photo en extérieur",
-        "date": "Du 1er décembre au 15 janvier",
-        "infoSup": "👉 Capturez la magie de l'hiver !",
-        "price" : 100
+        "title": "🌈 Pack Iris Étincelant ✨",
+        "discount": "15% de remise sur les photos d'iris artistiques",
+        "date": "Du 1er au 30 mai",
+        "infoSup": "🎨 Sublimez votre regard avec style",
+        "price": "59€"
     },
     {
-        "title": "💑 Séance Couple Romantique ❤️",
-        "discount": "15% de réduction sur les séances photo en duo",
-        "date": "Offre valable tout février",
-        "infoSup": "💕 Immortalisez votre amour pour la Saint-Valentin",
-        "price" : 100
+        "title": "👁️ Duo Iris 💕",
+        "discount": "20% de remise pour deux iris photographiés ensemble",
+        "date": "Valable tout le mois de juin",
+        "infoSup": "Parfait pour les couples ou les amis !",
+        "price": "120€"
     },
     {
-        "title": "🎂 Pack Anniversaire 🎁",
-        "discount": "10% de remise sur les shootings anniversaire",
-        "date": "Offre valable le mois de votre anniversaire",
-        "infoSup": "📸 Repartez avec un souvenir inoubliable",
-        "price" : 100
+        "title": "👨‍👩‍👧‍👦 Pack Famille Iris 🌟",
+        "discount": "25% de remise à partir de 3 iris photographiés",
+        "date": "Du 1er au 31 juillet",
+        "infoSup": "Immortalisez les yeux de vos proches",
+        "price": "187,50€"
     },
     {
-        "title": "👶 Séance Nouveau-Né 🍼",
-        "discount": "25% de remise pour toute réservation avant la naissance",
-        "date": "Valable toute l'année",
-        "infoSup": "💖 Des souvenirs doux et intemporels",
-        "price" : 100
+        "title": "🎓 Pack Étudiant Iris 📚",
+        "discount": "10% de remise sur présentation d'une carte étudiant",
+        "date": "Toute l'année",
+        "infoSup": "Une œuvre unique à petit prix"
     },
     {
-        "title": "👨‍👩‍👧‍👦 Portrait de Famille 🎄",
-        "discount": "15% de remise sur les portraits de famille",
-        "date": "Du 1er novembre au 31 décembre",
-        "infoSup": "📷 Une belle photo à offrir à Noël",
-        "price" : 100
+        "title": "🎁 Carte Cadeau Iris 🎉",
+        "discount": "15% de remise sur l’achat d’une carte cadeau iris",
+        "date": "Du 1er au 31 décembre",
+        "infoSup": "Offrez un regard inoubliable"
     },
     {
-        "title": "💼 Pack Pro LinkedIn 🚀",
-        "discount": "20% de remise sur les photos professionnelles",
-        "date": "Du 1er au 30 avril",
-        "infoSup": "🔥 Boostez votre image en entreprise",
-        "price" : 100
+        "title": "🖼️ Pack Iris Encadré 🪞",
+        "discount": "30% de remise sur les iris avec cadre premium",
+        "date": "Du 15 mai au 15 juin",
+        "infoSup": "Un cadre élégant pour un œil d'exception"
     }
 ]

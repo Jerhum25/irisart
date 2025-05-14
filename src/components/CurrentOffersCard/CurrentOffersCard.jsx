@@ -8,7 +8,7 @@ function CurrentOffersCard({title, discount, date, infoSup, price}) {
             <p>{discount}</p>
             <p>{date}</p>
             <p>{infoSup}</p>
-            <p>{price}€</p>
+            <p>{price}</p>
 
       </div>
    );
