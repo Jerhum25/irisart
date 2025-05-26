@@ -5,41 +5,6 @@ import { LiaHandPointer } from "react-icons/lia";
 function Contact(props) {
   return (
     <div className="contactContainer" id="contact">
-      {/* <form id="contact-form">
-        <h2>contactez nous</h2>
-        <div className="names">
-          <div className="firstName">
-            <label htmlFor="firstName">
-              Prénom <span>*</span>
-            </label>
-            <input type="text" name="firstName" id="firstName" />
-            <p className="firstNameError error">Ce champ est requis</p>
-          </div>
-          <div className="lastName">
-            <label htmlFor="lastName">
-              Nom <span>*</span>
-            </label>
-            <input type="text" name="lastName" id="lastName" />
-            <p className="lastNameError error">Ce champ est requis</p>
-          </div>
-        </div>
-        <div className="email">
-          <label htmlFor="email">
-            Adresse email <span>*</span>
-          </label>
-          <input type="text" name="email" id="email" />
-          <p className="emailError error">Ce champ est requis</p>
-        </div>
-        <div className="message">
-          <label htmlFor="message">
-            Message <span>*</span>
-          </label>
-          <textarea name="message" id="message"></textarea>
-          <p className="messageError error">Ce champ est requis</p>
-        </div>
-        <button className="submitBtn">envoyer</button>
-        <p id="status-message"></p>
-      </form> */}
       <div className="coordonnees">
         <h2>nous contacter</h2>
         <div className="pauline">

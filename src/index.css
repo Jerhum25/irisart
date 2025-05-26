@@ -8,13 +8,12 @@
   box-sizing: border-box;
   font-family: roboto, arial, sans-serif;
   text-decoration: none;
-  list-style-type: none;
   scroll-behavior: smooth;
 }
 
 :root {
+  --primaryColor: #ffebcd;
+  --secondaryColor: #776f64;
   --white: #fff;
   --black: #000;
-  --brown: #776f64;
-  --dalmond: #ffebcd;
 }

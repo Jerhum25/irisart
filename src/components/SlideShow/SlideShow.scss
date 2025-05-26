@@ -19,12 +19,27 @@
       }
     }
   }
+  h2{
+        position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%);
+    background: var(--secondaryColor);
+    border: none;
+    padding: 20px 30px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 30px;
+    text-wrap: nowrap;
+    color: var(--primaryColor);
+
+  }
   a.cta {
     position: absolute;
     bottom: 5%;
     left: 50%;
     transform: translate(-50%);
-    background: var(--dalmond);
+    background: var(--primaryColor);
     border: none;
     padding: 20px 30px;
     font-size: 22px;
@@ -32,7 +47,7 @@
     border-radius: 30px;
     text-wrap: nowrap;
     cursor: pointer;
-    color: var(--brown);
+    color: var(--secondaryColor);
   }
 }
 
@@ -42,7 +57,7 @@
     div {
       width: 100%;
     }
-    a.cta {
+    a.cta ,h2{
       font-size: 16px;
       padding: 10px 20px;
     }

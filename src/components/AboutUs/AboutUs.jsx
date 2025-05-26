@@ -24,7 +24,7 @@ function AboutUs(props) {
         participé ensemble à la formation pour photographier les iris .
       </p>
 
-      <h3>La photographie de l’iris, qu'est ce que c'est ?</h3>
+      {/* <h3>La photographie de l’iris, qu'est ce que c'est ?</h3>
 
       <p>
         Afin de diversifier notre offre, nous sommes donc parties nous former en
@@ -37,7 +37,7 @@ function AboutUs(props) {
         sublimer la photo, tout en conservant les couleurs naturelles de votre
         iris. Vient ensuite l'effet créatif pour faire de votre iris une œuvre
         d’art : Vous seriez surpris de la vraie couleur de vos yeux…!
-      </p>
+      </p> */}
     </div>
   );
 }

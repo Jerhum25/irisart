@@ -90,17 +90,18 @@ function SlideShow() {
           headline="w3js.com - web front-end studio"
           src="https://images.unsplash.com/photo-1483519173755-be893fab1f46?q=80&w=3908&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         />
-        <img alt="iris"
+        {/* <img alt="iris"
           description="React Carousel with Server Side Rendering Support – Part 2"
           headline="w3js.com - web front-end studio"
           src="https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/489405834_9287913354668802_1776896350749173300_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=XRqFNQ0jB9UQ7kNvwGx8WVI&_nc_oc=Adkg4qmFlvWiZarZXERwwY4_fa21otMw8pNMi2FHvQuAA6U_RgBhsXw6acApJR2cQI9DUvIkFd8xlu-wInj_mUEI&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=cvjL-9Xyc1ld7pDLMNFiGA&oh=00_AfLGDgHXwXToEx_eeZCsvmj1on8ltNUF7-4Fkl2uD46Cxg&oe=6823FE8C"
-        />
-        <img alt="iris"
+        /> */}
+        {/* <img alt="iris"
           description="Appending currency sign to a purchase form in your e-commerce site using plain JavaScript."
           headline="w3js.com - web front-end studio"
           src="https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/488827114_9287913364668801_7471830444370133943_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=HgquokEGTmMQ7kNvwGyuxWa&_nc_oc=Adl5JleJnyydOVDwaLPF7CQ0FYAhBM_I5C0NLk1914X57-m-f8oMNSjcNe3pKcRbRNmPS-tPJhKguAI7p5QMP8f5&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=0EXv9BlCmbkgeqHrkrEhZQ&oh=00_AfLrtcjCqIDTsKir1UgpNpPUYDEP2wxG7agrtHl0VOlItw&oe=68240AB9"
-        />
+        /> */}
       </Carousel>
+      <h2>"Votre regard, une œuvre d’art"</h2>
       <a className="cta" href="#currentOffers">Nos offres du moment</a>
     </div>
   );

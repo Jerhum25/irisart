@@ -2,93 +2,22 @@
   display: flex;
   h2 {
     margin-bottom: 15px;
-    color: var(--brown);
+    color: var(--secondaryColor);
     text-transform: capitalize;
   }
-  // form {
-  //   padding: 30px;
-  //   width: 50%;
-  //   display: flex;
-  //   flex-direction: column;
-  //   gap: 20px;
-  //   border-radius: 10px;
-  //   span {
-  //     color: var(--crimson);
-  //   }
-  //   label {
-  //     font-size: 16px;
-  //     margin-bottom: 5px;
-  //   }
-  //   p.error {
-  //     color: hsl(0, 66%, 54%);
-  //     font-size: 12px;
-  //     display: none;
-  //     &.active {
-  //       display: block;
-  //     }
-  //   }
-  //   input,
-  //   textarea {
-  //     font-size: 16px;
-  //     border: 1px solid var(--dalmond);
-  //     outline: none;
-  //     border-radius: 5px;
-  //     height: 30px;
-  //     width: auto;
-  //     padding:  5px 10px;
-  //   }
-  //   .names {
-  //     display: flex;
-  //     justify-content: space-between;
-  //     gap: 15px;
-  //     div {
-  //       display: flex;
-  //       flex-direction: column;
-  //       width: 50%;
-  //     }
-  //   }
-  //   .email {
-  //     display: flex;
-  //     flex-direction: column;
-  //   }
-  //   .message {
-  //     display: flex;
-  //     flex-direction: column;
-  //     textarea {
-  //       resize: none;
-  //       height: 70px;
-  //     }
-  //   }
-  //   button {
-  //     padding: 10px;
-  //     border: none;
-  //     border-radius: 5px;
-  //     border: 1px solid var(--brown);
-  //     background: var(--dalmond);
-  //     color: var(--brown);
-  //     cursor: pointer;
-  //     font-size: 18px;
-  //     font-weight: bold;
-  //     text-transform: uppercase;
-  //     width: fit-content;
-  //     align-self: center;
-  //     &:focus {
-  //       scale: 0.95;
-  //     }
-  //   }
-  // }
   .coordonnees {
     display: flex;
     flex-direction: column;
     padding: 30px;
-    // justify-content: space-between;
     width: 50%;
     gap: 30px;
     div {
       display: flex;
-      flex-direction: column;gap: 10px;
-      a{
-        color: #000;
+      flex-direction: column;
+      gap: 10px;
+      color: var(--secondaryColor);
+      a {
+        color: var(--secondaryColor);
       }
     }
   }
@@ -103,14 +32,14 @@
       }
 
       a {
-        color: var(--black);
+        color: var(--secondaryColor);
       }
       p {
         margin-top: 15px;
         display: flex;
         align-items: center;
         justify-content: left;
-        color: var(--brown);
+        color: var(--secondaryColor);
         svg {
           margin-right: 5px;
           font-size: 18px;
@@ -126,6 +55,7 @@
       ul {
         display: flex;
         gap: 30px;
+        list-style-type: none;
       }
     }
   }

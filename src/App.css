@@ -1,8 +1,10 @@
-.appContainer{
-    background-color: var(--dalmond);
-    padding: 0 15svw 0 15svw;
+.appContainer {
+  background-color: var(--primaryColor);
+  padding: 0 15svw 0 15svw;
 }
 
-@media screen and (max-width: 768px){
-    .appContainer{padding: 0;}
+@media screen and (max-width: 768px) {
+  .appContainer {
+    padding: 0;
+  }
 }

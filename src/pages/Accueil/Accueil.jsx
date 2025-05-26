@@ -1,25 +1,20 @@
-import React from "react";
 import AboutUs from "../../components/AboutUs/AboutUs";
-import Banner from "../../components/Banner/Banner";
-import Header from "../../components/Header/Header";
-import SlideShow from "../../components/SlideShow/SlideShow"
-import "./Accueil.scss";
-import CurrentOffers from "../../components/CurrentOffers/CurrentOffers";
-import Prices from "../../components/Prices/Prices";
 import Contact from "../../components/Contact/Contact";
-import Footer from "../../components/Footer/Footer";
+import CurrentOffers from "../../components/CurrentOffers/CurrentOffers";
+import PrestationDetails from "../../components/PrestationDetails/PrestationDetails";
+import Prices from "../../components/Prices/Prices";
+import SlideShow from "../../components/SlideShow/SlideShow";
+import "./Accueil.scss";
 
 function Accueil(props) {
   return (
     <div className="accueilContainer" id="home">
-      {/* <Header /> */}
-      {/* <Banner /> */}
-      <SlideShow/>
+      <SlideShow />
       <AboutUs />
-      <CurrentOffers/>
-      <Prices/>
-      <Contact/>
-      {/* <Footer/> */}
+      <PrestationDetails />
+      <CurrentOffers />
+      <Prices />
+      <Contact />
     </div>
   );
 }

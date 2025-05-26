@@ -1,6 +1,6 @@
 .footerContainer {
-  background-color: var(--brown);
-  color: var(--dalmond);
+  background-color: var(--secondaryColor);
+  color: var(--primaryColor);
   padding: 2rem 0;
   display: flex;
   flex-direction: column;
@@ -31,6 +31,13 @@
   .copyright {
     font-size: 0.875rem;
     margin-top: 0.5rem;
+    a{
+      color: var(--primaryColor);
+      text-decoration: underline;
+      &:hover{
+        color: var(--white);
+      }
+    }
   }
 }
 

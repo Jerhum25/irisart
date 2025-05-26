@@ -3,11 +3,11 @@
   height: 350px;
   display: flex;
   flex-direction: column;
-  background-color: var(--brown);
-  color: var(--dalmond);
+  background-color: var(--secondaryColor);
+  color: var(--primaryColor);
   padding: 15px;
   border-radius: 10px;
-  box-shadow: 0 0 10px var(--brown);
+  box-shadow: 0 0 10px var(--secondaryColor);
   text-align: center;
   justify-content: space-between;
   h3 {
